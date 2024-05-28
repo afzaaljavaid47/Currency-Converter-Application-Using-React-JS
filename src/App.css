@@ -1,0 +1,22 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.equals{
+  text-align: center;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+select{
+  margin-left: 3px;
+  padding: 5px;
+  border: 1px solid black;
+}
+input{
+  border: 2px solid black;
+  border-radius: 10px;
+  padding:5px;
+}
